@@ -10,39 +10,39 @@ Type your initials here to confirm you read the instructions:
 
 INSTRUCTOR EXAMPLE: What is a conditional statement?
 
-Your answer:
+Your answer: a conditional statement checks variables to make a decision
 
-Researched answer:
+Researched answer: a conditional statement evaluates conditions and if a certain condtion is met then performs an action.
 
 1. What is git? What is the difference between git and Github?
 
-Your answer:
+Your answer: git is a program and the difference between git and github is that github is the platform used to hold and share code.
 
-Researched answer:
+Researched answer: git is a open-source program independent of any programming language. the biggest difference between git and github is that github is where the source code lives allows for code to be shared and stored.
 
 
 2. What is the difference between an array's index and its value?
 
-Your answer:
+Your answer: an arrays index is the location and its value is the set data in the array
 
-Researched answer:
+Researched answer:an arrays index is a specific location within the array while the value is a javascript data type
 
 3. Compare and contrast arrays and strings. Please include ways in which they are the same and ways in which they are different.
 
-Your answer:
+Your answer:arrays are a collection of data while strings are a sinlge piece of data. 
 
-Researched answer:
+Researched answer: arrays and strings are a collection of data that have a length property. strings are squences of elements that represent a single data item while arrays are able to hold more than one value of data at a time. 
 
 4. STRETCH: What are the four pillars of object oriented programming?
 
-Researched answer:
+Researched answer: abstraction, encapsulation, inheritance, and polymorphism
 
 ## Looking Ahead: Terms for Next Week
 
 Research and define the following terms. Hint: use the syllabus!
 
-1. Higher Order Functions:
+1. Higher Order Functions: takes a function as an argument 
 
-2. Jest:
+2. Jest: testing framework
 
-3. Objects:
+3. Objects: the intersection of data and behavior
